@@ -1,6 +1,6 @@
 # Airthings Wave Local Monitor (ESP32)
 
-### 📥 [Download the Source Code, Firmware, and Build Guide Here](INSERT_YOUR_GUMROAD_LINK)
+### 📥 [Download the Source Code, Firmware, and Build Guide Here](https://ilnixadmin.gumroad.com/l/kcuaym)
 
 ---
 
